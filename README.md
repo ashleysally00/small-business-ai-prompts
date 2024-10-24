@@ -61,9 +61,6 @@ If you believe any content has been used improperly, please [contact me](mailto:
 ---
 
 ## Contributing
-While this project is still in development, suggestions and feedback are welcome! 
-
-## Contributing
 While this project is still in development, suggestions and feedback are welcome! Please contact me if you would like to modify or contribute to the content.
 
 ## License
