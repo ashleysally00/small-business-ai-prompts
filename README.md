@@ -83,7 +83,7 @@ As long as you:
 - Indicate if changes were made (if sharing the original content)
 
 ## 🚧 Work in Progress
-This repository is actively being developed. ✏️ Core guides and templates are being added and refined regularly.  
+This repository is actively being developed. ✏️ Core guides and templates are being added to and refined regularly.  
 
 ---
 Created and maintained by Ashley Rice 👩‍💼 a passionate learner, creator, and an advocate for positive change. ✨
