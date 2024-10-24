@@ -54,22 +54,29 @@ This repository aims to help small businesses:
 ## Contributing
 While this project is still in development, suggestions and feedback are welcome! 
 
+## Contributing
+While this project is still in development, suggestions and feedback are welcome! Please contact me if you would like to modify or contribute to the content.
+
 ## License
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 This means you can:
-- Use this content for your business
-- Share the material with others
-- Adapt and build upon it
-- Use it commercially
+- Use this content for personal or business purposes  
+- Share the material with others  
+
+**However,** you can't:
+- Modify, remix, or build upon the content without permission  
+- Distribute modified versions  
 
 As long as you:
-- Give appropriate credit
-- Link to the license
-- Indicate if changes were made
+- Give appropriate credit  
+- Provide a link to the license  
+- Indicate if changes were made (if sharing the original content)
 
 ## 🚧 Work in Progress
 This repository is actively being developed. Core guides and templates are being added and refined regularly.
 
 ---
 Created and maintained by Ashley Rice 👩‍💼
+
+
