@@ -30,7 +30,18 @@ This repository aims to help small businesses:
 While this project is still in development, suggestions and feedback are welcome! 
 
 ## License
-MIT License - feel free to use and adapt for your needs.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+This means you can:
+- Use this content for your business
+- Share the material with others
+- Adapt and build upon it
+- Use it commercially
+
+As long as you:
+- Give appropriate credit
+- Link to the license
+- Indicate if changes were made
 
 ---
 Created and maintained by Ashley Rice 👩‍💼
