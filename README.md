@@ -58,7 +58,7 @@ While this project is still in development, suggestions and feedback are welcome
 While this project is still in development, suggestions and feedback are welcome! Please contact me if you would like to modify or contribute to the content.
 
 ## License
-This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License][Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE.md).
 
 This means you can:
 - Use this content for personal or business purposes  
