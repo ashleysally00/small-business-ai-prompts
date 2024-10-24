@@ -1,13 +1,13 @@
 # Advanced Googling with AI: Power Search Prompts 🔍
 
 ## Why This Guide? 
-Want to supercharge your AI responses with real, current data? This guide combines the power of Google's search capabilities with AI tools like ChatGPT and Claude to get you better, more accurate results. No more outdated info or generic responses - learn how to get the specific, current insights you need!
+Want to supercharge your AI responses with real, current data? This guide combines the power of Google's search capabilities with AI tools like ChatGPT, Claude, and Gemini to get you better, more accurate results. No more outdated info or generic responses - learn how to get the specific, current insights you need!
 
 ## Market Research Power Searches 🎯
 
 ### 1. Competitor Research
-```
 Generate strategic Google search queries:
+
 - Company Research:
   - Company name + reviews
   - Company name + case studies
@@ -29,11 +29,10 @@ Generate strategic Google search queries:
   - [Company] press releases
   - [Company] funding news
   - [Company] partnerships
-```
 
 ### 2. Industry Trend Research
-```
-Create comprehensive industry searches:
+Generate comprehensive industry searches:
+
 - Trend Analysis:
   - [Industry] + trends 2024
   - [Industry] + "market report"
@@ -53,13 +52,12 @@ Create comprehensive industry searches:
   - filetype:pdf [industry] analysis
   - site:.gov [industry] statistics
   - site:.edu [industry] research
-```
 
 ## Local Business Research 📍
 
 ### 1. Local Market Analysis
-```
 Generate local search queries:
+
 - Area Research:
   - [Business type] + [city name]
   - [Service] + "near me"
@@ -78,11 +76,10 @@ Generate local search queries:
   - [Area] income statistics
   - [Location] population growth
   - [Neighborhood] development plans
-```
 
 ### 2. Local Networking
-```
-Find local business opportunities:
+Generate local business opportunities:
+
 - Event Search:
   - [City] business networking events
   - [Industry] meetup [location]
@@ -96,13 +93,12 @@ Find local business opportunities:
   - [Industry] association [location]
   - Business networking [area]
   - Professional organizations [city]
-```
 
 ## Content Research 📚
 
 ### 1. Topic Research
-```
-Develop content research queries:
+Generate content research queries:
+
 - Topic Exploration:
   - [Topic] + how to
   - [Topic] + guide
@@ -123,11 +119,10 @@ Develop content research queries:
   - [Topic] + research paper
   - [Topic] + industry report
   - [Topic] + whitepaper
-```
 
 ### 2. SEO Research
-```
 Generate SEO-focused searches:
+
 - Keyword Research:
   - [Topic] + "most searched"
   - [Topic] + popular questions
@@ -141,13 +136,12 @@ Generate SEO-focused searches:
   - related:[website]
   - [Keyword] + statistics
   - [Keyword] + data
-```
 
 ## Super-Charging AI Tools 🚀
 
 ### 1. ChatGPT Enhancement
-```
 Combine search and AI analysis:
+
 1. Search Phase:
    - Gather recent data/news
    - Find specific statistics
@@ -168,11 +162,10 @@ Combine search and AI analysis:
    - "Identify any contradictions"
    - "What's missing from this analysis?"
    - "What questions should we ask?"
-```
 
 ### 2. Power Research Workflow
-```
 Create research process:
+
 1. Initial Search:
    - Use search operators
    - Find authoritative sources
@@ -194,7 +187,6 @@ Create research process:
    - Find supporting data
    - Get alternative views
    - Check recent updates
-```
 
 ## Pro Tips 💡
 
