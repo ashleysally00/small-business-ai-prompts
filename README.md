@@ -86,6 +86,6 @@ As long as you:
 This repository is actively being developed. ✏️ Core guides and templates are being added and refined regularly.  
 
 ---
-Created and maintained by Ashley Rice 👩‍💼 a passionate learner, creator and advocate for positive change. ✨
+Created and maintained by Ashley Rice 👩‍💼 a passionate learner, creator, and an advocate for positive change. ✨
 
 
