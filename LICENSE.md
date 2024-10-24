@@ -1,14 +1,17 @@
-# Creative Commons Attribution 4.0 International License (CC BY 4.0)
+# Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+**This content is atill in development. It is a WIP.** 🚜 📓 🖊️
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You are free to:  
+- **Share** — copy and redistribute the material in any medium or format.
 
-For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
+**Under the following terms:**  
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+- **No Derivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material without permission from the author.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: [https://creativecommons.org/licenses/by-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
