@@ -51,6 +51,15 @@ This repository aims to help small businesses:
 - `templates/` - Ready-to-use templates for common business tasks
 - `case-studies/` - Real-world examples (coming soon)
 
+---
+
+## Disclaimer
+This project references publicly available case studies and success stories to provide educational examples. The original content belongs to their respective owners, and this repository does not claim ownership or endorsement of these materials. When possible, sources are cited with links to the original content for transparency and acknowledgment.
+
+If you believe any content has been used improperly, please [contact me](mailto:your-email@example.com) for resolution. This project is for **educational purposes only**, intended to guide small businesses in using AI effectively.
+
+---
+
 ## Contributing
 While this project is still in development, suggestions and feedback are welcome! 
 
@@ -74,9 +83,9 @@ As long as you:
 - Indicate if changes were made (if sharing the original content)
 
 ## 🚧 Work in Progress
-This repository is actively being developed. Core guides and templates are being added and refined regularly.
+This repository is actively being developed. ✏️ Core guides and templates are being added and refined regularly.  
 
 ---
-Created and maintained by Ashley Rice 👩‍💼
+Created and maintained by Ashley Rice 👩‍💼 a passionate learner, creator and advocate for positive change. ✨
 
 
