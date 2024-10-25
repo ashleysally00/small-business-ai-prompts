@@ -30,7 +30,18 @@ The Cook family showcases their passion through the phrase: *"Life is short – 
 This case shows how AI tools not only improved business operations but also allowed the Cook family to balance business growth with personal fulfillment.
 
 ---
+### Write Three AI Prompts Based on This Case Study  
 
+Here are some example prompts a small business like **Something Sweet Cookie Dough** could use with ChatGPT to automate their tasks:
+
+1. **Social Media Marketing Prompt:**  
+   *"Create five social media posts promoting our new cookie dough flavors for the holiday season. Use a friendly and engaging tone, and incorporate the phrase: 'Life is short – bake something sweet!'"*  
+
+2. **Customer Service Prompt:**  
+   *"Write a video script that answers common customer questions about storing and baking frozen cookie dough. Keep the tone casual and helpful."*
+
+3. **Inventory Management Email Prompt:**  
+   *"Draft a professional email to our supplier requesting an ingredient order adjustment based on last month's sales trends. Make sure to highlight that we want to reduce waste and avoid overstock."*
 
 ---
 
